@@ -1,5 +1,5 @@
 # Striver-A2Z-sheet
-### Step 1 : Learn the basics
+### Step 1 : Learn the basics  
 - **Lec1** : Things to know in any language (C++)
 - **Lec2** : Build-Up Logical Thinking  
   - Patterns  
