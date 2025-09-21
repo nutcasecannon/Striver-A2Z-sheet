@@ -2,7 +2,7 @@
 
 [Original Sheet Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
-<details>
+#<details>
   <summary>Step 1 : Learn the basics</summary>
 
 - **Lec1** : Things to know in any language (C++)
@@ -13,9 +13,9 @@
 - **Lec5** : Learn Basic Recursion
 - **Lec6** : Learn Basic Hashing
 
-</details>
+#</details>
 
-<details>
+#<details>
   <summary>Step 2 : Learn Important Sorting Techniques</summary>
 
 - Bubble Sort
@@ -24,13 +24,13 @@
 - Heap Sort
 - Counting Sort
 
-</details>
+#</details>
 
-<details>
+#<details>
   <summary>Step 3 : Solve Problems on Arrays [Easy → Medium → Hard]</summary>
 
 - Easy Problems
 - Medium Problems
 - Hard Problems
 
-</details>
+#</details>
