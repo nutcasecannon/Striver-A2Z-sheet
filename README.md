@@ -1,4 +1,6 @@
-# Striver-A2Z-sheet
+# Striver-A2Z-sheet  
+[Site Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)  
+
 ### Step 1 : Learn the basics  
 - **Lec1** : Things to know in any language (C++)
 - **Lec2** : Build-Up Logical Thinking  
