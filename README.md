@@ -3,13 +3,13 @@
 
 <details>  
 <summary>  Step 1 : Learn the basics  </summary>  
-  - **Lec1** : Things to know in any language (C++)  
-  - **Lec2** : Build-Up Logical Thinking  
+**Lec1** : Things to know in any language (C++)  
+**Lec2** : Build-Up Logical Thinking  
     - [Patterns](https://github.com/nutcasecannon/Striver-A2Z-sheet/tree/main/Patterns) (22 Pattern Problems Solved)  
-  - **Lec3** : Learn STL  
-  - **Lec4** : Know Basic Maths  
-  - **Lec5** : Learn Basic Recursion  
-  - **Lec6** : Learn Basic Hashing  
+    - **Lec3** : Learn STL  
+    - **Lec4** : Know Basic Maths  
+    - **Lec5** : Learn Basic Recursion  
+    - **Lec6** : Learn Basic Hashing  
 </details>  
 
 <details>  
