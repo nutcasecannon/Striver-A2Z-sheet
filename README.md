@@ -3,7 +3,7 @@
 [Original Sheet Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 <!--<details>-->
-  <!--<summary>--><!--</summary>-->
+  <!--<summary> </summary>-->
   ***Step 1*** : Learn the basics  
 - **Lec1** : Things to know in any language (C++)
 - **Lec2** : Build-Up Logical Thinking
@@ -16,7 +16,7 @@
 <!--</details>-->
 
 <!--<details>-->
-  <!--<summary>--><!--</summary>-->
+  <!--<summary> </summary>-->
   ***Step 2*** : Learn Important Sorting Techniques  
 - Bubble Sort
 - Merge Sort
@@ -27,7 +27,7 @@
 <!--</details>-->
 
 <!--<details>-->
-  <!--<summary>--><!--</summary>-->
+  <!--<summary> </summary>-->
   ***Step 3*** : Solve Problems on Arrays [Easy → Medium → Hard]  
 - Easy Problems
 - Medium Problems
