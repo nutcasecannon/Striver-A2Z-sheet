@@ -1,4 +1,5 @@
 // Problem Statement: Given an integer N, return the number of digits in N.
+
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10,14 +11,14 @@ int main() {
         cout << 1 << endl;
         return 0;
     }
-    //Brute Force
+    //Standard Approach - O(n)
     /*while(N!=0) {
         count++;
         N=N/10;
     }*/
 
-    //Optimal Approach
-    count = (int)(log10(N)+1);
+    //Approach 2
+    count = (int)log10(N)+1;
 
     cout << count << endl;
     return 0;
