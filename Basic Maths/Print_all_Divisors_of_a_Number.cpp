@@ -5,6 +5,7 @@ In other words, if N is divisible by another integer without any remainder, then
 #include<iostream>
 #include<string>
 #include<vector>
+#include<algorithm>
 using namespace std;
 int main() {
     int n;
@@ -26,6 +27,8 @@ int main() {
             if (i!=n/i) res.push_back(n/i);
         }
     }
+    
+    sort(res.begin(), res.end());
     for (int y : res) cout << y << " ";
     return 0;
 }
